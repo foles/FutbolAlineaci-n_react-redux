@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FutbolAlineaci-n_react-redux/static/css/main.b67280ea.chunk.css",
+    "main.js": "/FutbolAlineaci-n_react-redux/static/js/main.3d4848b1.chunk.js",
+    "main.js.map": "/FutbolAlineaci-n_react-redux/static/js/main.3d4848b1.chunk.js.map",
+    "runtime-main.js": "/FutbolAlineaci-n_react-redux/static/js/runtime-main.bb3adae2.js",
+    "runtime-main.js.map": "/FutbolAlineaci-n_react-redux/static/js/runtime-main.bb3adae2.js.map",
+    "static/js/2.6d61ed6c.chunk.js": "/FutbolAlineaci-n_react-redux/static/js/2.6d61ed6c.chunk.js",
+    "static/js/2.6d61ed6c.chunk.js.map": "/FutbolAlineaci-n_react-redux/static/js/2.6d61ed6c.chunk.js.map",
+    "index.html": "/FutbolAlineaci-n_react-redux/index.html",
+    "precache-manifest.54f77090efcd12d8f26914215aef7d35.js": "/FutbolAlineaci-n_react-redux/precache-manifest.54f77090efcd12d8f26914215aef7d35.js",
+    "service-worker.js": "/FutbolAlineaci-n_react-redux/service-worker.js",
+    "static/css/main.b67280ea.chunk.css.map": "/FutbolAlineaci-n_react-redux/static/css/main.b67280ea.chunk.css.map",
+    "static/js/2.6d61ed6c.chunk.js.LICENSE.txt": "/FutbolAlineaci-n_react-redux/static/js/2.6d61ed6c.chunk.js.LICENSE.txt",
+    "static/media/cancha.svg": "/FutbolAlineaci-n_react-redux/static/media/cancha.aa6d54bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3adae2.js",
+    "static/js/2.6d61ed6c.chunk.js",
+    "static/css/main.b67280ea.chunk.css",
+    "static/js/main.3d4848b1.chunk.js"
+  ]
+}
